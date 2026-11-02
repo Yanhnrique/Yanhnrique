@@ -17,6 +17,7 @@ Sou responsável pela **Build On 3D**, iniciativa voltada à **impressão 3D, pr
 - **R2-D2 com ESP32:** integração de ESP32, controle PS4, motores e LEDs RGB.
 - **Controle PS4 com ESP32:** integração entre o controle e o microcontrolador.
 - **Telescópio Hadley.**
+- **Pan Tilt para o telescópio Hadley (em desenvolvimento):** sistema de movimentação com ESP32, motores NEMA 17 e drivers TMC2209, com integração de controle PS4 via Bluepad32 em desenvolvimento.
 
 > Aprender, projetar e construir — conectando o mundo digital ao físico.
 
@@ -37,5 +38,6 @@ I run **Build On 3D**, an initiative focused on **3D printing, prototyping, prod
 - **ESP32 R2-D2:** integration of an ESP32, a PS4 controller, motors, and RGB LEDs.
 - **PS4 Controller with ESP32:** integration between the controller and the microcontroller.
 - **Hadley Telescope.**
+- **Hadley Telescope Pan Tilt (in development):** a motion system using an ESP32, NEMA 17 stepper motors, and TMC2209 drivers, with PS4 controller integration via Bluepad32 under development.
 
 > Learn, design, and build — connecting the digital and physical worlds.
