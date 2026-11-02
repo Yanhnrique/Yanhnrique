@@ -18,6 +18,8 @@ Sou responsável pela **Build On 3D**, iniciativa voltada à **impressão 3D, pr
 - **Controle PS4 com ESP32:** integração entre o controle e o microcontrolador.
 - **Telescópio Hadley.**
 - **Pan Tilt para o telescópio Hadley (em desenvolvimento):** sistema de movimentação com ESP32, motores NEMA 17 e drivers TMC2209, com integração de controle PS4 via Bluepad32 em desenvolvimento.
+- **Monitor de Temperatura e Umidade com ESP32-C3:** monitoramento ambiental com sensor DHT22, display OLED de 0,96 polegadas e sensor de toque TTP223, integrando interfaces interativas, conectividade Wi-Fi e recursos de horário e informações meteorológicas.
+- **DeskBuddy — Assistente Inteligente Portátil (em desenvolvimento):** projeto baseado em ESP32-S3, com display OLED circular, microfone e alto-falante. Os recursos de interação por voz e inteligência artificial estão planejados.
 
 > Aprender, projetar e construir — conectando o mundo digital ao físico.
 
@@ -39,5 +41,7 @@ I run **Build On 3D**, an initiative focused on **3D printing, prototyping, prod
 - **PS4 Controller with ESP32:** integration between the controller and the microcontroller.
 - **Hadley Telescope.**
 - **Hadley Telescope Pan Tilt (in development):** a motion system using an ESP32, NEMA 17 stepper motors, and TMC2209 drivers, with PS4 controller integration via Bluepad32 under development.
+- **ESP32-C3 Temperature and Humidity Monitor:** environmental monitoring with a DHT22 sensor, a 0.96-inch OLED display, and a TTP223 touch sensor, integrating interactive interfaces, Wi-Fi connectivity, and time and weather information features.
+- **DeskBuddy — Portable Smart Assistant (in development):** an ESP32-S3-based project featuring a circular OLED display, a microphone, and a speaker. Voice interaction and artificial intelligence capabilities are planned.
 
 > Learn, design, and build — connecting the digital and physical worlds.
